@@ -24,7 +24,7 @@ O objetivo é mostrar, de forma prática e criativa, como o Python pode ser usad
 - Conclusão  
 
 ## 📘 Leitura do eBook
-📥 [Clique aqui para ler o eBook em formato PDF](link_para_o_pdf)
+📥 [Clique aqui para ler o eBook em formato PDF](./pythonhacker.pdf)
 
 ## 🚀 Tecnologias Utilizadas
 - ChatGPT (IA generativa)
