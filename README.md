@@ -29,7 +29,7 @@ O objetivo é mostrar, de forma prática e criativa, como o Python pode ser usad
 ## 🚀 Tecnologias Utilizadas
 - ChatGPT (IA generativa)
 - Ideogram
-- Camnva
+- Canva
 - Git e GitHub
 
 ## 🧠 Inspirado por
