@@ -11,7 +11,7 @@ O objetivo é mostrar, de forma prática e criativa, como o Python pode ser usad
 ## 📂 Estrutura do Repositório
 - `ebook.md` → eBook completo em formato Markdown  
 - `prompts.txt` → Todos os prompts usados na criação do conteúdo  
-- `assets/` → Imagens e gráficos (opcional)  
+- `imagens/` → Imagens
 - `README.md` → Este arquivo  
 
 ## 💡 Conteúdo do eBook
