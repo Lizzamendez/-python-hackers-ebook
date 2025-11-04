@@ -1,0 +1,5 @@
+PROMPT 1: Crie um título épico e curto para um eBook sobre automação com Python.
+PROMPT 2: Gere a estrutura de capítulos para um eBook chamado “Python Hackers: dominando automações”.
+PROMPT 3: Escreva a introdução explicando por que automatizar é importante.
+PROMPT 4: Crie exemplos de código Python simples que automatizam tarefas cotidianas (arquivos, e-mails, web scraping).
+PROMPT 5: Escreva uma conclusão motivacional para o eBook.
